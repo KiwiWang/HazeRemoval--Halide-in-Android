@@ -15,7 +15,7 @@ Check *build.sh*
 ----------------
 What has to be considered is path to halide library. In line 5,
 ```
-c++ halide.cpp -L /path/to/halide/bin -lHalide -I /path/to/halide/include -ldl -lpthread -lz
+... -L /path/to/halide/bin -lHalide -I /path/to/halide/include -ldl -lpthread -lz
 ```
 And in line 21,
 ```
