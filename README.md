@@ -1,7 +1,7 @@
-
-
 NOTE
 ====
+Tested on Android emulator with x86 image. And host is Linux Mint 17.1
+
 This app clone from apps/HelloAndroid in official Halide github repo.
 
 What has been modified is _build.sh_, _jni/Android.mk_ and _jni/Application.mk_
